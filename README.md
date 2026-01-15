@@ -116,7 +116,7 @@ cd ios && pod install && cd ..
 4. **Configure API URL**
 ```typescript
 // src/config/api.ts
-export const API_URL = 'http://localhost:8080/api';
+export const API_URL = 'http://YOUR_API _URL_HERE/api';
 ```
 
 5. **Run the app**
