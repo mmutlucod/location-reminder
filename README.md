@@ -162,10 +162,6 @@ Notifications are triggered only when:
 2. The reminder is active
 3. You haven't been notified recently for the same reminder
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👨‍💻 Developer
 
 **Mustafa Mutlu**
