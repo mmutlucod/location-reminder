@@ -1,0 +1,10 @@
+export const API_CONFIG = {
+  BASE_URL: 'http://192.168.1.156:8080/api',
+  TIMEOUT: 30000,
+};
+
+export const LOCATION_CONFIG = {
+  UPDATE_INTERVAL: 10000,
+  DISTANCE_FILTER: 10,
+  ACCURACY: 100,
+};

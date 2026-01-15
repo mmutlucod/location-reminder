@@ -1,0 +1,4 @@
+/Users/mustafamutlu/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/mustafamutlu/Desktop/LocationReminderApp/android/app/.cxx/Debug/1m1p5h5i/armeabi-v7a \
+  clean
