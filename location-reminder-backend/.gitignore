@@ -1,1 +1,1 @@
-echo "firebase-credentials.json" >> .gitignore
+firebase-credentials.json
