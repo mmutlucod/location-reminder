@@ -25,11 +25,11 @@ Built with a modern tech stack, the backend runs on Go with Gin framework for hi
 
 | Home Screen | Reminder List | Edit Reminder |
 |-------------|---------------|---------------|
-| <img src="LocationReminderApp/assets/screenshots/home.png" width="250"/> | <img src="assets/screenshots/reminder-list.png" width="250"/> | <img src="assets/screenshots/reminder-edit.png" width="250"/> |
+| <img src="LocationReminderApp/assets/screenshots/home.png" width="250"/> | <img src="LocationReminderApp/assets/screenshots/reminder-list.png" width="250"/> | <img src="LocationReminderApp/assets/screenshots/reminder-edit.png" width="250"/> |
 
 | Map View | Profile | Push Notification |
 |----------|---------|-------------------|
-| <img src="assets/screenshots/map.png" width="250"/> | <img src="assets/screenshots/profile.png" width="250"/> | <img src="assets/screenshots/push-notification.png" width="250"/> |
+| <img src="LocationReminderApp/assets/screenshots/map.png" width="250"/> | <img src="LocationReminderApp/assets/screenshots/profile.png" width="250"/> | <img src="LocationReminderApp/assets/screenshots/push-notification.png" width="250"/> |
 
 </div>
 
@@ -170,9 +170,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Mustafa Mutlu**
 
-- GitHub: [@mustafamutlu](https://github.com/mustafamutlu)
-- LinkedIn: [Mustafa Mutlu](https://linkedin.com/in/mustafamutlu)
+- GitHub: [@mustafamutlu](https://github.com/mmutlucod)
+- LinkedIn: [Mustafa Mutlu](https://linkedin.com/in/mustafamutluu)
 
----
-
-⭐ If you find this project useful, please consider giving it a star!
